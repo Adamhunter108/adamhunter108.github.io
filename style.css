@@ -1,6 +1,6 @@
 body {
-  /*background-image: linear-gradient(to bottom right, black, #42f5a1, white);*/
-  background-image: url("snowtiger.jpeg");
+  background-image: linear-gradient(to bottom right, black, #42f5a1, white);
+/*  background-image: url("snowtiger.jpeg");*/
   background-repeat: no-repeat;
   background-size: 100%;
 }
