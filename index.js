@@ -1,3 +1,0 @@
-drawText('Adam Hunter');
-
-bounceBubbles();
