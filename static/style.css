@@ -10,11 +10,6 @@ h1 {
 	font-size: 5em;
 }
 
-h2 {
-	color: #03fcfc;
-	text-align: center;
-}
-
 .foo {
 	max-width: 70%;
 	height: auto;
