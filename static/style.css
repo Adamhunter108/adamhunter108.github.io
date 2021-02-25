@@ -5,7 +5,8 @@ body {
 h1 {
 	color: #03fcfc;
 	text-align: center;
-	font-family: 'Oi', cursive;
+/*	font-family: 'Oi', cursive;*/
+	font-family: 'Ultra', serif;
 	/*font-family: "Helvetica";*/
 	font-size: 5em;
 }
