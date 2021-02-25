@@ -26,3 +26,7 @@ p {
 	font-family: "Helvetica";
 	font-size: 3em;
 }
+
+#scrollbox {
+	overflow: scroll; 
+}
