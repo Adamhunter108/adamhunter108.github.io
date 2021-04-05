@@ -1,5 +1,7 @@
 body {
 	background-color: black;
+	/*background-image: url('./waves.jpg'), opacity: 0.5;
+	/*background-image: opacity: 0.5;*/
 }
 
 h1 {
@@ -114,8 +116,10 @@ td:last-child {
 }	
 
 tr {
-	/*background: url(https://jackrugile.com/images/misc/noise-diagonal.png);	*/
-	background-color: lightgrey;
+	background-color: #e2e2e2;
+/*	background-image: url('./waves.jpg');
+	background-image: opacity: 0.5;*/
+
 }
 
 /*tr:nth-child(odd) td {
