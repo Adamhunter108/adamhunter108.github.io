@@ -4,6 +4,14 @@ body {
 	/*background-image: opacity: 0.5;*/
 }
 
+a {
+	color: blue;
+}
+
+a:hover {
+	color: #03fcfc;
+} 
+
 h1 {
 	color: #03fcfc;
 	text-align: center;
