@@ -1,0 +1,185 @@
+{
+  "main": {
+    "name":"Adam Hunter",
+    "description":"Self-taught developer from Long Island, New York",
+    "image":"profilepic.jpg",
+    "bio":"Adam is a self-taught full stack developer specializing in Python and React, the JavaScript library for building user interfaces.  Adam is bringing over ten years of varied professional experience along with a lifetime of diverse soft and technical skills to his career in software development.  His breadth of soft and non-technological skills encompass: project development, project management, sales and purchasing, client and internal relationship building, composing music on multiple instruments, and recording with digital audio workspaces.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "adamhunter928@gmail.com",
+    "phone": "516-428-1932",
+    "github":"https://github.com/adamhunter108",
+    "project":"https://github.com/",
+    "address":{
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
+    },
+    "website": "https://github.com/adamhunter108",
+    "resumedownload":"https://github.com/adamhunter108",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://adamhunter108.github.io/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/adamhhecht/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/_adamhunter/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/adamhunter108",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"State University of New York at Farmingdale",
+        "degree":"Bachelor of Science - Business Management Technology        ",
+        "graduated":"              2008",
+        "description":""
+      },
+      {
+        "school":"",
+        "degree":"",
+        "graduated":"",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"MCG Electronics, Deer Park, NY",
+        "title":"Purchasing Manager",
+        "years":"2017 - Present",
+        "description":"Oversee and implement entire procurement process from sourcing to purchase order fulfillment. Procurement includes but not limited to all raw material, custom parts, electronic components, working tools, facility devices, maintenance and control services. This process is performed to be in strict compliance with ISO 9001 manufacturing certification guidelines.  Perform routine inventory/vendor/cost analyses and forecasts via Key Performance Indicators, Material Requirement Planning and database management to present to and coordinate with other departments.  Build and maintain strong, long-lasting vendor relationships.  Consistently perform under pressure of deadlines.  Participate in national trade show presentations.  Initiated and executed an obsolete stock liquidation program.  Updated purchasing department technology, replacing thirty-year-old technology with a virtually paperless cloud-based environment."
+      },
+      {
+        "company":"Florence Building Materials, Huntington, NY",
+        "title":"Account Executive",
+        "years":"2015 — 2017",
+        "description":"Managed client relationships for the duration of building projects, from early stages of research and discovery to the final stages of delivery and installation.  Analyzed customer requirements and utilized expert knowledge learned in the field as a project manager to recommend customized solutions.  Monitored project costs to ensure they were aligned with budgets. Operated as initial point of contact for the company, servicing new accounts as well as maintaining existing accounts. Cultivated new accounts via soft lead management platforms."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"100%"
+      },
+      {
+        "name":"Django",
+        "level":"100%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"100%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"100%"
+      },
+      {
+        "name":"React",
+        "level":"100%"
+      },
+      {
+        "name":"Node",
+        "level":"100%"
+      },
+      {
+        "name":"Data Analysis",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
