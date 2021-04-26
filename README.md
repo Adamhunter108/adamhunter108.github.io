@@ -1,10 +1,7 @@
-# adamhunter108.github.io
-
+# adamhunter108.github.io :briefcase:
+---
 ###### About:
-Project Portfolio
+Project Portfolio / Personal Page
 
 ###### View live at:
 [adamhunter108.github.io](https://adamhunter108.github.io)
-
-###### Updated Portfolio:
-[adamhunter108.github.io/projects](https://adamhunter108.github.io/projects)
