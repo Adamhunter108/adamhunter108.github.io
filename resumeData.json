@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Adam Hunter",
-    "description":"Self-taught developer from Long Island, New York",
+    "description":"Full-stack developer from Long Island, New York",
     "image":"profilepic.jpg",
-    "bio":"Adam is a self-taught full stack developer specializing in Python and React, the JavaScript library for building user interfaces.  Adam is bringing over ten years of varied professional experience along with a lifetime of diverse soft and technical skills to his career in software development.  His breadth of soft and non-technological skills encompass: project development, project management, sales and purchasing, client and internal relationship building, composing music on multiple instruments, and recording with digital audio workspaces.",
+    "bio":"Adam is a self-taught full-stack developer specializing in Python and React, the JavaScript library for building user interfaces.  Adam is bringing over ten years of varied professional experience along with a lifetime of diverse soft and technical skills to his career in software development.  His breadth of soft and non-technological skills encompass: project development, project management, sales and purchasing, client and internal relationship building, composing music on multiple instruments, and recording with digital audio workspaces.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "adamhunter928@gmail.com",
     "phone": "516-428-1932",
